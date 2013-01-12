@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUGUFI.Model", "SUGUFI.MODEL\SUGUFI.Model.csproj", "{A6E4B8F0-1FD0-4CDB-A346-DAFE3941B905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUGUFI.Repository", "SUGUFI.REPOSITORIES\SUGUFI.Repository.csproj", "{9904F4D5-23CE-48BA-BA4C-C21FAC8F298A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUGUFI.Web", "SUGUFI.Web\SUGUFI.Web.csproj", "{D84AE765-1CE3-4237-BA57-CE5DC60E3951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUGUFI.Data.Web", "SUGUFI.Data.Web\SUGUFI.Data.Web.csproj", "{8183CF03-F96A-4FE1-A34A-C1AE9D7FA157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUGUFI.API.Web", "SUGUFI.API.Web\SUGUFI.API.Web.csproj", "{48FDC080-917F-426B-8F4E-65DCD177922C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUGUFI.API.Web.Tests", "SUGUFI.API.Web.Tests\SUGUFI.API.Web.Tests.csproj", "{4F2245E7-F856-4735-AAC8-BA134A0810C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E4B8F0-1FD0-4CDB-A346-DAFE3941B905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E4B8F0-1FD0-4CDB-A346-DAFE3941B905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E4B8F0-1FD0-4CDB-A346-DAFE3941B905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E4B8F0-1FD0-4CDB-A346-DAFE3941B905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9904F4D5-23CE-48BA-BA4C-C21FAC8F298A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9904F4D5-23CE-48BA-BA4C-C21FAC8F298A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9904F4D5-23CE-48BA-BA4C-C21FAC8F298A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9904F4D5-23CE-48BA-BA4C-C21FAC8F298A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84AE765-1CE3-4237-BA57-CE5DC60E3951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84AE765-1CE3-4237-BA57-CE5DC60E3951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84AE765-1CE3-4237-BA57-CE5DC60E3951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84AE765-1CE3-4237-BA57-CE5DC60E3951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8183CF03-F96A-4FE1-A34A-C1AE9D7FA157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8183CF03-F96A-4FE1-A34A-C1AE9D7FA157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8183CF03-F96A-4FE1-A34A-C1AE9D7FA157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8183CF03-F96A-4FE1-A34A-C1AE9D7FA157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FDC080-917F-426B-8F4E-65DCD177922C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FDC080-917F-426B-8F4E-65DCD177922C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FDC080-917F-426B-8F4E-65DCD177922C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FDC080-917F-426B-8F4E-65DCD177922C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2245E7-F856-4735-AAC8-BA134A0810C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2245E7-F856-4735-AAC8-BA134A0810C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2245E7-F856-4735-AAC8-BA134A0810C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2245E7-F856-4735-AAC8-BA134A0810C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
